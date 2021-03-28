@@ -17,12 +17,12 @@ const Contract = () => {
                 <table>
                     <tr>
                         <td>
-                            <h1>Keettamook Khuntiphong</h1>
+                            <h1>Charnnarong Charoensanongkun </h1>
                             <h3>Student</h3>
-                            <h2>Keettamook_k@cmu.ac.th</h2>
+                            <h2>Charnnarong_c@cmu.ac.th</h2>
                         </td>
                         <th>
-                            <img width="200px" src="imgsrc/5.png" alt="5" />
+                            <img width="200px" src="Resource/พี่โต.jpg" alt="5" />
                         </th>
                     </tr>
                 </table>

@@ -17,12 +17,12 @@ const Gallery = () => {
                     <table>
                         <tr>
                             <td>
-                                <h1>Keettamook Khuntiphong</h1>
+                                <h1>Charnnarong Charroensanongkun</h1>
                                 <h3>Student</h3>
-                                <h2>Keettamook_k@cmu.ac.th</h2>
+                                <h2>Charnnarong_c@cmu.ac.th</h2>
                             </td>
                             <th>
-                                <img width="200px" src="imgsrc/5.png" alt="5"/>
+                                <img width="200px" src="Resource/พี่โต.jpg" alt="5"/>
             </th>
           </tr>
   </table>
@@ -33,43 +33,43 @@ const Gallery = () => {
                         <table border="1px">
                             <tr>
                                 <th>
-                                    <img width="300px" src="imgsrc/1.jpg" alt="1" />
+                                    <img width="300px" src="Resource/1.png" alt="1" />
                                     <p>Add a description here</p>
                                 </th>
                                 <th>
-                                    <img width="300px" src="imgsrc/2.jpg" alt="2" />
+                                    <img width="300px" src="Resource/2.jpg" alt="2" />
                                     <p>Add a description here</p>
                                 </th>
                                 <th>
-                                    <img width="300px" src="imgsrc/3.jpg" alt="3" />
+                                    <img width="300px" src="Resource/3.jpg" alt="3" />
                                     <p>Add a description here</p>
                                 </th>
                             </tr>
                             <tr>
                                 <th>
-                                    <img width="300px" src="imgsrc/4.jpg" alt="4" />
+                                    <img width="300px" src="Resource/4.jpg" alt="4" />
                                     <p>Add a description here</p>
                                 </th>
                                 <th>
-                                    <img width="300px" src="imgsrc/5.png" alt="5" />
+                                    <img width="300px" src="Resource/5.jpg" alt="5" />
                                     <p>( ͡° ͜ʖ ͡°)</p>
                                 </th>
                                 <th>
-                                    <img width="300px" src="imgsrc/6.jpg" alt="6" />
+                                    <img width="300px" src="Resource/6.jpg" alt="6" />
                                     <p>Add a description here</p>
                                 </th>
                             </tr>
                             <tr>
                                 <th>
-                                    <img width="300px" src="imgsrc/7.jpg" alt="7" />
+                                    <img width="300px" src="Resource/7.jpg" alt="7" />
                                     <p>Add a description here</p>
                                 </th>
                                 <th>
-                                    <img width="300px" src="imgsrc/8.png" alt="8" />
+                                    <img width="300px" src="Resource/8.jpg" alt="8" />
                                     <p>Add a description here</p>
                                 </th>
                                 <th>
-                                    <img width="300px" src="imgsrc/9.jpg" alt="9" />
+                                    <img width="300px" src="Resource/พี่โต.jpg" alt="9" />
                                     <p>Add a description here</p>
                                 </th>
                             </tr>
