@@ -22,7 +22,7 @@ const Contract = () => {
                             <h2>Charnnarong_c@cmu.ac.th</h2>
                         </td>
                         <th>
-                            <img width="200px" src="Resource/พี่โต.jpg" alt="5" />
+                            <img width="200px" src="Resource/9.jpg" alt="5" />
                         </th>
                     </tr>
                 </table>

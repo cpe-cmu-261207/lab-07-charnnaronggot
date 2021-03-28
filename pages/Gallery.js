@@ -69,7 +69,7 @@ const Gallery = () => {
                                     <p>Add a description here</p>
                                 </th>
                                 <th>
-                                    <img width="300px" src="Resource/พี่โต.jpg" alt="9" />
+                                    <img width="300px" src="Resource/9.jpg" alt="9" />
                                     <p>Add a description here</p>
                                 </th>
                             </tr>
